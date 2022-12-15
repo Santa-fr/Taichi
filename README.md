@@ -27,7 +27,7 @@ It contains :
 - the id 
 - the praticant 
 - the praticant level
-- the movement number
+- the movement sequence id
 - the date of tracking 
 
 
@@ -38,4 +38,23 @@ They are ranked in 5 differents categories
 - Intermediate
 - Competent
 - Master
+
+#### Movements
+Each movements sequences are several Tai-Chi movements from Chen 31
+
+First sequence : Id = 1
+1. Jin Gang Dao Dui (La foudre pulvérise)
+2. Lan Za Yi (Soutenir le pan du vêtement)
+3. Liu Feng Si Bi (Fermeture apparente)
+4. Dan Bian (Simple fouet)
+
+Second sequence : Id = 2
+1. Bai Lan Tui (Un coup de pied en lotus)
+2. Qiu Di Long (Dragon au sol)
+3. Jin Ji Du Li (Le coq se tient sur une patte)
+
+Third sequence : Id = 3
+1. Pai Jiao (Taper le pied)
+2. Yu Nu Chuan Shuo (La fille de jade tisse et lance la navette)
+3. Ma Bu Shuang Ya Zhou (un coup de coude)
 
