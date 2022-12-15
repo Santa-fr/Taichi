@@ -57,6 +57,6 @@ Third sequence : Id = 3
 1. Pai Jiao (Taper le pied)
 2. Yu Nu Chuan Shuo (La fille de jade tisse et lance la navette)
 3. Ma Bu Shuang Ya Zhou (un coup de coude)
-
-# Some more movements will be added SOON ! 
+# A part with how to complete / modify the database will be added soon 
+# Some more movements will be added SOON too! 
 # The database will be finished on January.
