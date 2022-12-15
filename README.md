@@ -1,14 +1,14 @@
 # Taichi Bodytracking project
-## From IMT ATLANTIQUE students 
+### From IMT ATLANTIQUE students 
 
 In this readme, I will explain how the database is arranged.
 I'll present what is in it and how to access it efficiently.
 
-### Raw data
+## Raw data
 Firstly, the raw data in csv and fbx format are stocked in the raw_csv and raw_fbx files.
 These are files directly exported from the software Motive using the Optitrack tracking system.
 
-### Usable data
+## Usable data
 All the cleaned data is stocked in the "data" file.
 There is also a file gravity center that contains all of the data concerning the gravity center for some other specific use.
 It's a csv with lines corresponding to the time series and the cols corresponding to each degree of freedom for each body part of the avatar.
@@ -17,7 +17,7 @@ The col_info csv give us all the information about what column is what kind of d
 
 [col_info.csv](https://github.com/perroquent/Taichi/files/10158137/col_info.csv)
 
-### Classification 
+## Classification 
 
 Each data file is named this way : 
 Id_data.csv
@@ -31,7 +31,7 @@ It contains :
 - the date of tracking 
 
 
-#### Praticant level 
+### Praticant level 
 They are ranked in 5 differents categories 
 - Beginner
 - Amateur
@@ -39,7 +39,7 @@ They are ranked in 5 differents categories
 - Competent
 - Master
 
-#### Movements
+### Movements
 Each movements sequences are several Tai-Chi movements from Chen 31
 
 First sequence : Id = 1
