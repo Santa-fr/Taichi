@@ -58,3 +58,5 @@ Third sequence : Id = 3
 2. Yu Nu Chuan Shuo (La fille de jade tisse et lance la navette)
 3. Ma Bu Shuang Ya Zhou (un coup de coude)
 
+# Some more movements will be added SOON ! 
+# The database will be finished on January.
