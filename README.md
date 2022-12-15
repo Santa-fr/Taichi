@@ -27,6 +27,7 @@ It contains :
 - the id 
 - the praticant 
 - the praticant level
+- the movement number
 - the date of tracking 
 
 
