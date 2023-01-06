@@ -20,7 +20,7 @@ The col_info csv give us all the information about what column is what kind of d
 ## Classification 
 
 Each data file is named this way : 
-Id_data.csv
+CodePracticant_IDmouv_IDfile.csv
 
 And the caracteristics about each data file are in the file info.csv
 It contains : 
@@ -32,12 +32,10 @@ It contains :
 
 
 ### Praticant level 
-They are ranked in 5 differents categories 
+They are ranked in 3 differents categories 
 - Beginner
-- Amateur
 - Intermediate
-- Competent
-- Master
+- Advanced
 
 ### Movements
 Each movements sequences are several Tai-Chi movements from Chen 31
@@ -57,6 +55,16 @@ Third sequence : Id = 3
 1. Pai Jiao (Taper le pied)
 2. Yu Nu Chuan Shuo (La fille de jade tisse et lance la navette)
 3. Ma Bu Shuang Ya Zhou (un coup de coude)
+
+Fourth sequence : Id = 4
+
+
+Fifth sequence : Id = 5
+
+
+Sixth sequence : Id = 6
+
+
 # A part with how to complete / modify the database will be added soon 
 # Some more movements will be added SOON too! 
 # The database will be finished on January.
