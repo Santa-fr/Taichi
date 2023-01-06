@@ -25,8 +25,7 @@ CodePracticant_IDmouv_IDfile.csv
 And the caracteristics about each data file are in the file info.csv
 It contains : 
 - the id 
-- the praticant 
-- the praticant level
+- the praticant code
 - the movement sequence id
 - the date of tracking 
 
@@ -36,6 +35,9 @@ They are ranked in 3 differents categories
 - Beginner
 - Intermediate
 - Advanced
+
+The practicant code is two letters of his name + a letter that represents his level
+Ex: for Jean a Beginner it will be JEB
 
 ### Movements
 Each movements sequences are several Tai-Chi movements from Chen 31
@@ -57,13 +59,13 @@ Third sequence : Id = 3
 3. Ma Bu Shuang Ya Zhou (un coup de coude)
 
 Fourth sequence : Id = 4
-
+A COMPLETER
 
 Fifth sequence : Id = 5
-
+A COMPLETER
 
 Sixth sequence : Id = 6
-
+A COMPLETER
 
 # A part with how to complete / modify the database will be added soon 
 # Some more movements will be added SOON too! 
